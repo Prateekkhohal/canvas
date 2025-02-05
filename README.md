@@ -1,5 +1,4 @@
-# canvas
-MAIN EXPERIENCE (3D Space)
+# MAIN EXPERIENCE (3D Space)
 ├── Multiple Products in Scene
 │   ├── Products Rotating Automatically
 │   └── No UI Elements Visible
@@ -32,7 +31,7 @@ MAIN EXPERIENCE (3D Space)
                         └── Close Button
                             └── Returns to Product UI Panel
                             
-NAVIGATION OPTIONS
+# NAVIGATION OPTIONS
 ├── From Feature Screen
 │   └── Close Button → Returns to Product UI Panel
 │
@@ -42,7 +41,7 @@ NAVIGATION OPTIONS
 └── From Main Experience
     └── Move to Different Products/Waypoints
 
-USER INTERACTIONS
+# USER INTERACTIONS
 ├── Main Experience
 │   ├── Walk/Move Around Space
 │   └── Approach Products
